@@ -156,4 +156,4 @@ The project is deployed on Vercel. Any changes pushed to the main branch will au
 
 ## 📄 License
 
-This project is created for educational purposes as part of a frontend developer assignment.
+This project is created for practice purposes.
