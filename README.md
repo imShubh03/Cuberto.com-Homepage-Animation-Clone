@@ -1,6 +1,6 @@
 # Cuberto.com Homepage Animation Clone
 
-A frontend developer assignment project that recreates key sections and animations from the Cuberto.com homepage.
+A frontend project that recreates key sections and animations from the Cuberto.com homepage.
 
 ## 🚀 Live Demo
 
