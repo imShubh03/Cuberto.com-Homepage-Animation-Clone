@@ -1,6 +1,6 @@
 # Cuberto.com Homepage Animation Clone
 
-A frontend developer assignment project that recreates key sections and animations from the Cuberto.com homepage.
+A frontend project that recreates key sections and animations from the Cuberto.com homepage.
 
 ## 🚀 Live Demo
 
@@ -156,4 +156,4 @@ The project is deployed on Vercel. Any changes pushed to the main branch will au
 
 ## 📄 License
 
-This project is created for educational purposes as part of a frontend developer assignment.
+This project is created for practice purposes.
