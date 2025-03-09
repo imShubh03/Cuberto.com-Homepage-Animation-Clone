@@ -4,7 +4,7 @@ A frontend project that recreates key sections and animations from the Cuberto.c
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://cuberto-clone.vercel.app)
+[View Live Demo]([https://cuberto-clone.vercel.app](https://cuberto-animation.vercel.app/))
 
 ## ✨ Features
 
